@@ -1,3 +1,4 @@
 # telegram_dictabot
-A dictionary built in to your chat<br>
+<p align="center">
 <img src="./imgs/Dictabot.png">
+</p>
