@@ -1,0 +1,20 @@
+{
+  "name": "telebotdictionary",
+  "version": "1.0.0",
+  "description": "A telegram Bot to search for word meanings.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Sachin RS",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "firebase": "^7.17.1",
+    "node-cron": "^2.0.3",
+    "node-telegram-bot-api": "^0.50.0"
+  }
+}
